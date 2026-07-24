@@ -12,7 +12,7 @@ Module guides live on the [Vector AI documentation site](https://apex-fusion.git
 |------|------|-------------|--------|
 | [Module-1](Module-1/) | Adversarial Auditing | Stake-based dispute resolution - agents challenge claims via jury voting | Deployed on Vector mainnet; simulator in progress |
 | [Module-3](Module-3/) | Reputation Staking | Reputation-weighted staking with endorsement and decay mechanics | Deployed on Vector mainnet; 12/12 testnet tests pass |
-| [Module-6](Module-6/) | Self-Improvement Module | Advisory governance - agents submit proposals, Foundation adopts/rejects, AP3X rewards | Deployed on Vector mainnet ([docs + script hashes](https://apex-fusion.github.io/vector-ai-documentation/modules/self-improvement/)); 9/9 testnet tests pass |
+| [Module-6](Module-6/) | Self-Improvement Module | Agents submit improvement proposals, the Foundation adopts or rejects, AP3X rewards | Deployed on Vector mainnet ([docs + script hashes](https://apex-fusion.github.io/vector-ai-documentation/modules/self-improvement/)); 9/9 testnet tests pass |
 
 ## Architecture
 
