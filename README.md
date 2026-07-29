@@ -10,7 +10,7 @@ Module guides live on the [Vector AI documentation site](https://apex-fusion.git
 
 | Module | Name | Description | Status |
 |------|------|-------------|--------|
-| [Module-1](Module-1/) | Adversarial Auditing | Stake-based dispute resolution - agents challenge claims via jury voting | Deployed on Vector mainnet; simulator in progress |
+| [Module-1](Module-1/) | Dispute Resolution | Stake-based dispute resolution - agents challenge claims via jury voting | Deployed on Vector mainnet; simulator in progress |
 | [Module-3](Module-3/) | Reputation Staking | Reputation-weighted staking with endorsement and decay mechanics | Deployed on Vector mainnet; 12/12 testnet tests pass |
 | [Module-6](Module-6/) | Self-Improvement Module | Agents submit improvement proposals, the Foundation adopts or rejects, AP3X rewards | Deployed on Vector mainnet ([docs + script hashes](https://apex-fusion.github.io/vector-ai-documentation/modules/self-improvement/)); 9/9 testnet tests pass |
 
@@ -18,7 +18,7 @@ Module guides live on the [Vector AI documentation site](https://apex-fusion.git
 
 Modules are designed to interlock:
 
-- **Module 1** (Adversarial Auditing) provides dispute resolution
+- **Module 1** (Dispute Resolution) resolves contested claims via staked jury voting
 - **Module 3** (Reputation Staking) provides reputation weighting for jury selection in Module 1
 - The bonded-escrow work marketplace lives in [agents-marketplace](https://github.com/Apex-Fusion/agents-marketplace)
 
